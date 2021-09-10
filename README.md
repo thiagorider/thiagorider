@@ -14,8 +14,6 @@
   <a href="https://www.linkedin.com/in/thiagorider" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thiagorider)](https://github.com/anuraghazra/github-readme-stats)
-
   ![Snake animation](https://github.com/thiagorider/thiagorider/blob/output/github-contribution-grid-snake.svg)
  
 </div>
