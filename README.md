@@ -2,7 +2,7 @@
 
 <div align="center">
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiagorider&theme=dracula"/> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=thiagorider&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagorider&layout=compact&langs_count=7&theme=dracula&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagorider&theme=dracula&hide_border=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=thiagorider&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagorider&layout=compact&langs_count=10&hide=HTML,CSS,Arduino,c%2B%2B,Typescript&theme=dracula&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagorider&theme=dracula&hide_border=true"/>
   
 ### A little about me...
     Computer Engineer passionate about the transformation that technology and science can bring to society.
