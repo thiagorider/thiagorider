@@ -8,7 +8,7 @@
 <br>
 
 
-## A little about me... <img src="https://user-images.githubusercontent.com/5251806/172728318-0dec58c1-9e71-426a-80a4-ca777fed9867.jpeg" width="60"> 
+## A little about me... <img src="https://user-images.githubusercontent.com/5251806/172729012-af809d75-66c7-4a33-979e-587004372960.gif" width="60"> 
     Computer Engineer passionate about the transformation that technology and science can bring to society.
 
 <br>
