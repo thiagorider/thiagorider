@@ -38,11 +38,11 @@
   <br />
    <summary><b>🖥️ DevSetup</b></summary>
   	<ul>
-  	  <li><b>OS:</b> Ubuntu Monterey 20.04</li>
-	  <li><b>Laptop: </b> Dell  Pro (15-inch, 2019)</li>
-  	  <li><b>CPU: </b> 2,3 GHz Intel Core i9 8-Core</li>
+  	  <li><b>OS:</b> Ubuntu Focal Fossa 20.04.4 LTS</li>
+	  <li><b>Laptop: </b> Dell  Latitude 5410 (14-inch, 2020)</li>
+  	  <li><b>CPU: </b> 4,9 GHz Intel Core i7 4-Core</li>
 	    <li><b>GPU: </b> Intel UHD Graphics 630 1536 MB</li>
-	    <li><b>RAM:</b> 16 GB 2400 MHz DDR4</li>
+	    <li><b>RAM:</b> 16 GB 3200 MHz DDR4</li>
       <li><b>To Stay Updated:</b> Linkedin.</li>
 	</ul>	
 </details>
