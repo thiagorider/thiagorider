@@ -30,7 +30,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagorider/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/thiagorideraugusto/)
-<a href = "mailto:thiago.rider@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+[![Gmail](https://img.shields.io/badge/Gmail-%23676767.svg?logo=Gmail&logoColor=white)](mailto:thiago.rider@gmail.com)
 ![Thiago StackOverflow](https://stackoverflow-badge.vercel.app/?userID=5240115)
 	
 	
@@ -48,3 +48,4 @@
 </details>
 
 ![Snake animation](https://github.com/thiagorider/thiagorider/blob/output/github-contribution-grid-snake.svg)
+</div>
