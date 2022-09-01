@@ -1,16 +1,17 @@
 <img align="center" alt="Gif" height="300" width="100%" style="border-radius:50px;"  src="https://user-images.githubusercontent.com/5251806/172527073-8b11f1a9-c1c9-4d25-b18b-93aa1e37f2de.gif">
 
 
-
+<div align="right">
 <a href="https://app.daily.dev/thiagorider"><img align="right" src="https://api.daily.dev/devcards/988226a70b914e9997eff92f4749a883.png?r=x0c" width="400" alt="Thiago Rider Augusto's Dev Card"/></a>
+</div>
 
-<div align="center">
+<div align="left">
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiagorider&theme=dracula"/> 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thiagorider&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagorider&layout=compact&langs_count=10&hide=HTML,CSS,Arduino,c%2B%2B,Typescript&theme=dracula&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagorider&theme=dracula&hide_border=true"/>
+</div>
 
-<br>
-<br>
 
+<div align="center">
 
 ## A little about me... <img src="https://user-images.githubusercontent.com/5251806/172729012-af809d75-66c7-4a33-979e-587004372960.gif" width="60"> 
     Computer Engineer passionate about the transformation that technology and science can bring to society.
