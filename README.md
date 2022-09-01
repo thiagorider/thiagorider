@@ -30,7 +30,7 @@
 <br/>
 <br/>
 
-<div class="row" align="center">
+<div class="row" align="left">
 
 <h2> A little about me... </h2>	<img src="https://user-images.githubusercontent.com/5251806/172729012-af809d75-66c7-4a33-979e-587004372960.gif" width="60"/> 
     Computer Engineer passionate about the transformation that technology and science can bring to society.
@@ -52,7 +52,7 @@
 <br>
 <br>
 
-<div align="center">
+<div align="left">
 
 
   
