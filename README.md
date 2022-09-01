@@ -12,18 +12,18 @@
   
   <div class="column" align="center">
   	<div class="row" align="center">
-  		<img height="120em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiagorider&theme=dracula"/>
+  		<img height="120em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiagorider&theme=dracula&include_all_commits=true&count_private=true"/>
 	</div>
 	<div class="row">
 		<div class="column">
-			<img width="20%" src="https://github-readme-stats.vercel.app/api?username=thiagorider&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+			<img width="20%" src="https://github-readme-stats.vercel.app/api?username=thiagorider&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 		</div>
 		<div class="column">
-			<img width="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagorider&layout=compact&langs_count=10&hide=HTML,CSS,Arduino,c%2B%2B,Typescript&theme=dracula&hide_border=true"/>
+			<img width="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagorider&layout=compact&langs_count=10&hide=HTML,CSS,Arduino,c%2B%2B,Typescript&theme=dracula"/>
 		</div>
 	</div>
 	<div class="row" align="center">
-		<img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagorider&theme=dracula&hide_border=true"/>
+		<img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagorider&theme=dracula"/>
 	</div>
   </div>
 </div>
