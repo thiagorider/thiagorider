@@ -5,15 +5,18 @@
 <br/>
 <br/>
 
-<div class="row">
+<div class="row" align="center">
+  		<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiagorider&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+<br/>
+
+<div class="row" align="center" >
   <div class="column" align="center">
 	<a href="https://app.daily.dev/thiagorider"><img align="right" src="https://api.daily.dev/devcards/988226a70b914e9997eff92f4749a883.png?r=x0c" height="520" alt="Thiago Rider Augusto's Dev Card"/></a>  
   </div>
   
   <div class="column" align="center">
-  	<div class="row" align="center">
-  		<img height="120em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiagorider&theme=dracula&include_all_commits=true&count_private=true"/>
-	</div>
 	<div class="row">
 		<div class="column">
 			<img width="35%" src="https://github-readme-stats.vercel.app/api?username=thiagorider&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
