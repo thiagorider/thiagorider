@@ -12,7 +12,7 @@
   
   <div class="column" align="center">
   	<div class="row" align="center">
-  		<img height="130em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiagorider&theme=dracula"/>
+  		<img height="120em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiagorider&theme=dracula"/>
 	</div>
 	<div class="row">
 		<div class="column">
@@ -23,7 +23,7 @@
 		</div>
 	</div>
 	<div class="row" align="center">
-		<img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagorider&theme=dracula&hide_border=true"/>
+		<img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagorider&theme=dracula&hide_border=true"/>
 	</div>
   </div>
 </div>
