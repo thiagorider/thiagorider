@@ -1,5 +1,5 @@
 <div class="row" style="padding: 20px; margin-top: 20px; margin-down: 50px">
-	<img align="center" alt="Gif" height="300" width="100%" style="border-radius:50px;"  src="https://user-images.githubusercontent.com/5251806/172527073-8b11f1a9-c1c9-4d25-b18b-93aa1e37f2de.gif">
+	<img align="center" alt="Gif" height="270" width="100%" style="border-radius:50px;"  src="https://user-images.githubusercontent.com/5251806/172527073-8b11f1a9-c1c9-4d25-b18b-93aa1e37f2de.gif">
 </div>
 
 <br/>
