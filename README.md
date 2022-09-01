@@ -37,8 +37,8 @@
 
 </div>
 
-<br>
-<br>
+<br/>
+<br/>
 
 <div class="row">
 	<h2> Tools and Techs </h2>
@@ -49,8 +49,8 @@
 
 </div>
 
-<br>
-<br>
+<br/>
+<br/>
 
 <div align="left">
 
@@ -66,7 +66,7 @@
 	
 	
 <details>
-  <br />
+  <br/>
    <summary><b>🖥️ DevSetup</b></summary>
   	<ul>
   	  <li><b>OS:</b> Ubuntu Focal Fossa 20.04.4 LTS</li>
@@ -77,6 +77,8 @@
       <li><b>To Stay Updated:</b> Linkedin.</li>
 	</ul>	
 </details>
+
+<br/>
 
 ![Snake animation](https://github.com/thiagorider/thiagorider/blob/output/github-contribution-grid-snake.svg)
 </div>
