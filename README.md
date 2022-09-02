@@ -35,7 +35,7 @@
 
 <div class="row" align="left">
 
-<h2> A little about me... </h2>	<img src="https://user-images.githubusercontent.com/5251806/172729012-af809d75-66c7-4a33-979e-587004372960.gif" width="60"/> 
+<h2> :technologist: A little about me... </h2>	<img src="https://user-images.githubusercontent.com/5251806/172729012-af809d75-66c7-4a33-979e-587004372960.gif" width="60"/> 
     Computer Engineer passionate about the transformation that technology and science can bring to society.
 
 </div>
@@ -44,7 +44,7 @@
 <br/>
 
 <div class="row" align="left">
-	<h2> Tools and Techs </h2>
+	<h2> :toolbox: Tools and Techs </h2>
 	<p align="left">
 	<a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 	<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
