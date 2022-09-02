@@ -3,7 +3,6 @@
 </div>
 
 <br/>
-<br/>
 
 <div class="row" align="center">
   		<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiagorider&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -44,7 +43,7 @@
 <br/>
 <br/>
 
-<div class="row">
+<div class="row" align="left">
 	<h2> Tools and Techs </h2>
 	<p align="left">
 	<a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
@@ -56,11 +55,9 @@
 <br/>
 <br/>
 
-<div align="left">
-
-
+<div class="row" align="left">
   
- ## 📫 How to reach me?
+ <h2> 📫 How to reach me?
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagorider/)
@@ -82,7 +79,12 @@
 	</ul>	
 </details>
 
+</div>
+
 <br/>
 
+<div class="row" align="center">
+
 ![Snake animation](https://github.com/thiagorider/thiagorider/blob/output/github-contribution-grid-snake.svg)
+
 </div>
