@@ -99,4 +99,6 @@
 
 ![Snake animation](https://github.com/thiagorider/thiagorider/blob/output/github-contribution-grid-snake.svg)
 
+
+
 </div>
