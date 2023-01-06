@@ -3,32 +3,47 @@
 </div>
 
 <br/>
+<br/>
 
 <div class="row" align="center">
-  		<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiagorider&theme=dracula&include_all_commits=true&count_private=true"/>
+  <div class="column" align="left">
+ 	<br>
+	<a href="https://github.com/thiagorider">
+  	<img align="center" width="49%" src="./header.svg" />
+	</a>
+	<br/>  
+  </div>
+  <div class="column" align="center">
+	<a href="https://app.daily.dev/thiagorider"><img align="right" src="https://api.daily.dev/devcards/988226a70b914e9997eff92f4749a883.png?r=x0c" height="520" alt="Thiago Rider Augusto's Dev Card"/></a>  
+  </div>
+</div>
+
+<a href="https://github.com/thiagorider">
+  <img align="center" width="49%" src="./repositories.svg" />
+</a>
+<a href="https://github.com/thiagorider">
+  <img align="center" width="49%" src="./acti_comm.svg" />
+</a>
+
+<a href="https://github.com/thiagorider">
+  <img align="center" width="49%" src="./iso_calender.svg" />
+</a>
+
+<a href="https://github.com/thiagorider">
+    <img align="center" width="49%" src="./issue_pr_lang.svg" />
+</a>
+
+<a href="https://github.com/thiagorider">
+  <img align="center" width="49%" src="./github-habits.svg" />
+</a>
+<a href="https://github.com/thiagorider">
+    <img align="center" width="49%" src="./achievements.svg" />
+</a>
 </div>
 
 <br/>
 
-<div class="row" align="center" >
-  <div class="column" align="center">
-	<a href="https://app.daily.dev/thiagorider"><img align="right" src="https://api.daily.dev/devcards/988226a70b914e9997eff92f4749a883.png?r=x0c" height="520" alt="Thiago Rider Augusto's Dev Card"/></a>  
-  </div>
-  
-  <div class="column" align="center">
-	<div class="row">
-		<div class="column">
-			<img width="38%" src="https://github-readme-stats.vercel.app/api?username=thiagorider&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-		</div>
-		<div class="column">
-			<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagorider&layout=compact&langs_count=10&hide=HTML,CSS,Arduino,c%2B%2B,Typescript&theme=dracula"/>
-		</div>
-	</div>
-	<div class="row" align="center">
-		<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagorider&theme=dracula"/>
-	</div>
-  </div>
-</div>
+<br/>
 
 <br/>
 <br/>
