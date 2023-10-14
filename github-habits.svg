@@ -195,13 +195,13 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Dockerfile</span>
-                                <div class="bar" style="width: 15.001518987341774%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">19%</span>
+                                <div class="bar" style="width: 13.0436799381523%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">16%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">C#</span>
-                                <div class="bar" style="width: 3.987848101265823%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">5%</span>
+                                <div class="bar" style="width: 2.8017008117510627%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">4%</span>
                             </div>
                         </div>
                     </section>
