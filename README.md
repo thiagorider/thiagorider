@@ -99,8 +99,8 @@
   <br/>
    <summary><b>🖥️ DevSetup</b></summary>
   	<ul>
-  	  <li><b>OS:</b> Ubuntu Focal Fossa 20.04.4 LTS</li>
-	  <li><b>Laptop: </b> Dell  Latitude 5410 (14-inch, 2020)</li>
+  	  <li><b>OS:</b> Ubuntu Noble Numbat 24.04 LTS</li>
+	  <li><b>Laptop: </b> Dell Ic. Latitude 5410 (14-inch, 2020)</li>
   	  <li><b>CPU: </b> 4,9 GHz Intel Core i7 4-Core</li>
 	    <li><b>GPU: </b> Intel UHD Graphics 630 1536 MB</li>
 	    <li><b>RAM:</b> 16 GB 3200 MHz DDR4</li>
